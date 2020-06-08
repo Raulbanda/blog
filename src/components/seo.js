@@ -86,7 +86,7 @@ SEO.defaultProps = {
   lang: `en`,
   meta: [],
   description: ``,
-  title: `Principles of Wealth`,
+  title: `Raul Banda`,
   socialImage: false,
 }
 

@@ -23,7 +23,7 @@ const AboutPage = () => {
     <>
       {}
       <SEO
-        title="Principles of Wealth"
+        title="Raul Banda Poemas"
         description="A summary of Naval Ravikant’s tweetstorms and podcast"
       />
 
@@ -31,9 +31,9 @@ const AboutPage = () => {
         <Nav />
 
         <h1 className="title" data-splitting="">
-        Raul Banda
-          <br /> Blog 
-          <br /> Personal
+        Raul 
+          <br /> Poemas
+          <br /> 
         </h1>
 
         <h2 className="subtitle">A summary of Naval Ravikant’s tweetstorms and podcasts</h2>

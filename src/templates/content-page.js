@@ -57,9 +57,9 @@ const TemplateContent = ({ data, pageContext }) => {
             to="/"
             className="logo"
           >
-            Principles
-            <br /> of Wealth
-            <br /> .net
+            Raul 
+            <br /> Banda
+            <br /> Poetry
           </TransitionLink>
 
           <Nav />

@@ -4,12 +4,12 @@ const cssnano = require('css-mqpacker') // super compressor
 
 module.exports = {
   siteMetadata: {
-    siteUrl: `https://www.prcplofwlth.netlify.com`,
-    title: `Principles of wealth`,
-    description: `Because reading is faster than listening`,
-    twitter_handle: `@flowen_nl`,
+    siteUrl: `https://raul-banda.netlify.app/`,
+    title: `Raul Banda Poemas`,
+    description: `Poemas que nos llevan mas alla `,
+    twitter_handle: `@Raul`,
     keywords:
-      'Naval, Ravikant, Naval Ravikant, Principles of wealth, how to get rich, podcast, summary',
+      'Cultura, Poemas, Cochabamba, literatura boliviana',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -70,8 +70,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `principles-of-wealth`,
-        short_name: `wealth`,
+        name: `Raul Banda Poemas`,
+        short_name: `Poema`,
         start_url: `/`,
         background_color: `#412779`,
         theme_color: `#412779`,
