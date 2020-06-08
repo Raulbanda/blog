@@ -1,5 +1,5 @@
 import React from 'react'
-import profileImage from '../assets/images/profile-img.jpg'
+import profileImage from '../assets/images/raul.jpg'
 
 const Footer = ({ themeDark, setThemeDark, menuOpen, setMenuOpen }) => {
   if (typeof window === `undefined`) return null
@@ -8,7 +8,7 @@ const Footer = ({ themeDark, setThemeDark, menuOpen, setMenuOpen }) => {
     <footer className="footer">
       <div className="footer__menu-wrapper">
         <label htmlFor="menu" className="footer__label" data-theme={themeDark} data-menu={menuOpen}>
-          <img src={profileImage} alt="Made by Rou Hun Fan" className="footer__menu-img" />
+          <img src={profileImage} alt="" className="footer__menu-img" />
         </label>
 
         <input
@@ -59,7 +59,7 @@ const Footer = ({ themeDark, setThemeDark, menuOpen, setMenuOpen }) => {
               target="_blank"
               rel="noopener noreferrer"
               className="footer__menu-anchor"
-              title="Rou Hun's Twitter"
+              title="Raul Banda Facebook"
             >
               <svg
                 className="svg-twitter-icon"
