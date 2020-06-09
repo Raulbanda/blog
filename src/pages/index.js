@@ -24,7 +24,7 @@ const AboutPage = () => {
       {}
       <SEO
         title="Raul Banda Poemas"
-        description="A summary of Naval Ravikant’s tweetstorms and podcast"
+        description="Un Sumario de poemas por el escritor Raul Banda el wacho"
       />
 
       <div className="about-page">
@@ -36,7 +36,7 @@ const AboutPage = () => {
           <br /> 
         </h1>
 
-        <h2 className="subtitle">A summary of Naval Ravikant’s tweetstorms and podcasts</h2>
+        <h2 className="subtitle">Sumario depoemas de Raul Banda</h2>
 
         <div className="intro">
           <p>
@@ -79,7 +79,7 @@ const AboutPage = () => {
               to="/chapters"
               className="link-cta"
             >
-              Go to Chapters
+              Ir a Capitulos
             </TransitionLink>
           </p>
         </div>

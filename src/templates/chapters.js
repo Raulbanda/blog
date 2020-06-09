@@ -37,10 +37,10 @@ const ChaptersPage = ({ pageContext }) => {
         <Nav />
 
         <h1 className="title" data-splitting="">
-          Chapters
+          Capitulos
         </h1>
 
-        <h2 className="subtitle">A summary of Naval Ravikant’s tweetstorms and podcast</h2>
+        <h2 className="subtitle">Lista de poemas</h2>
 
         {chapters.length > 1 ? (
           <nav className="chapters">
