@@ -36,35 +36,32 @@ const AboutPage = () => {
           <br /> 
         </h1>
 
-        <h2 className="subtitle">Sumario depoemas de Raul Banda</h2>
+        <h2 className="subtitle">La Vida en Poemas RB</h2>
 
         <div className="intro">
           <p>
-            This site is a summary of Naval's{' '}
+            La unica Mision de este proyecto {' '}
             <a
               href="https://twitter.com/naval/status/1002103360646823936"
               target="_blank"
               rel="noopener noreferrer"
             >
-              tweetstorm
+              Raul-Banda-Poemas
             </a>{' '}
-            and{' '}
-            <a href="https://nav.al/how-to-get-rich" target="_blank" rel="noopener noreferrer">
-              podcast 'how to get rich'
-            </a>
-            . Which started out as several tweetstorms, the podcast dove deep into each tweet.
+            
+            es promover la Poesia, buscando una vigorosa presencia en la cultura Boliviana         </p>
+          <p>
+            El Poema en cada columna sera lo mas breve posible y regozijable a nuestros lectores
+             publicaciones online
           </p>
           <p>
-            But Podcasts are slow to consume. Reading is faster than listening and a summary is even
-            faster.
-          </p>
+            Sin ti el poema no seria posible, porfavor donar si te gusta un poema mencionada          </p>
           <p>
-            I wrote this out of my own interest and wanted to showcase my skills as a designer and
-            front-end developer.
+             
           </p>
           <p>
             <a href="https://flowen.me/" target="_blank" rel="noopener noreferrer">
-              Made by Rou Hun Fan
+              Donar :)
             </a>
           </p>
           <p>
