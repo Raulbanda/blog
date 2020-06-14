@@ -6,7 +6,7 @@ module.exports = {
   siteMetadata: {
     siteUrl: `https://raul-banda.netlify.app/`,
     title: `Raul Banda Poemas`,
-    description: `Poemas que nos llevan mas alla `,
+    description: `Raul Banda promover el poema en la cultura Boliviana  `,
     twitter_handle: `@Raul`,
     keywords:
       'Cultura, Poemas, Cochabamba, literatura boliviana',

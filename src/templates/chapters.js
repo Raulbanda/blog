@@ -31,16 +31,16 @@ const ChaptersPage = ({ pageContext }) => {
 
   return (
     <>
-      <SEO title="Chapters" description="The chapters" />
+      <SEO title="Columnas" description="Listado de poesias Raul-Banda RB" />
 
       <div className="chapters-page">
         <Nav />
 
         <h1 className="title" data-splitting="">
-          Capitulos
+          Columnas
         </h1>
 
-        <h2 className="subtitle">Lista de poemas</h2>
+        <h2 className="subtitle">Comienza en la luz, termina en sabiduria. Explora nuestro Poemas</h2>
 
         {chapters.length > 1 ? (
           <nav className="chapters">

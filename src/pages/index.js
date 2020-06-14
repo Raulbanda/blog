@@ -23,8 +23,8 @@ const AboutPage = () => {
     <>
       {}
       <SEO
-        title="Raul Banda Poemas"
-        description="Un Sumario de poemas por el escritor Raul Banda el wacho"
+        title="Mision"
+        description="Poemas, lecturas, poemas, cultura boliviana, Raul-Banda"
       />
 
       <div className="about-page">
@@ -32,7 +32,7 @@ const AboutPage = () => {
 
         <h1 className="title" data-splitting="">
         Raul 
-          <br /> Poemas
+          <br /> Banda
           <br /> 
         </h1>
 
@@ -76,7 +76,7 @@ const AboutPage = () => {
               to="/chapters"
               className="link-cta"
             >
-              Ir a Capitulos
+              Columnas
             </TransitionLink>
           </p>
         </div>

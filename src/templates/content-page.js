@@ -59,7 +59,7 @@ const TemplateContent = ({ data, pageContext }) => {
           >
             Raul 
             <br /> Banda
-            <br /> Poetry
+            <br /> Prosas
           </TransitionLink>
 
           <Nav />

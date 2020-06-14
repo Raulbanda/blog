@@ -85,7 +85,7 @@ const SEO = ({ description, lang, meta, title, socialImage }) => {
 SEO.defaultProps = {
   lang: `en`,
   meta: [],
-  description: ``,
+  description: `Raul Banda poemas `,
   title: `Raul Banda`,
   socialImage: false,
 }
