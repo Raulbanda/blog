@@ -23,7 +23,7 @@ const AboutPage = () => {
     <>
       {}
       <SEO
-        title="Inicio"
+        title="Raul Banda RB"
         description="Poemas, lecturas, poemas, cultura boliviana, Raul-Banda"
       />
 
@@ -52,7 +52,7 @@ const AboutPage = () => {
             es promover la Poesia, buscando una vigorosa presencia en la cultura Boliviana         </p>
           <p>
             El Poema en cada columna sera lo mas breve posible y regozijable a nuestros lectores
-             publicaciones online
+             publicadas online
           </p>
           <p>
             Sin ti el poema no seria posible, porfavor donar si te gusta un poema mencionada          </p>
