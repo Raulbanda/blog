@@ -23,7 +23,7 @@ const AboutPage = () => {
     <>
       {}
       <SEO
-        title="Mision"
+        title="Inicio"
         description="Poemas, lecturas, poemas, cultura boliviana, Raul-Banda"
       />
 
